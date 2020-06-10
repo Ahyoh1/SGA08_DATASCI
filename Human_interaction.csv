@@ -1,2 +1,6 @@
 ,Full name,Phonebook_contacts,Twitter_followers,Whatsapp_contacts,Instagram_followers
-0,"['April Dexter', 'Olabisi Doyin', 'Olatunbosun Pedro', 'Oyin Daniels', 'Sam Anthony']","[1560, 875, 9350, 1280, 1300]","[1054, 668, 782, 1500, 1800]","[862, 1026, 1338, 744, 859]","[1265, 850, 1550, 2000, 1164]"
+0,April Dexter,1560,1054,862,1265
+1,Olabisi Doyin,875,668,1026,850
+2,Olatunbosun Pedro,9350,782,1338,1550
+3,Oyin Daniels,1280,1500,744,2000
+4,Sam Anthony,1300,1800,859,1164
